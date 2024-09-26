@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 现大连理工20级自动化专业学生，预计24级南方某高校计算机专业硕士生
-- 🌱 研究方向是~~TBD~~
+- 🔭 SYSU CS 24FALL
+- 🌱 Reinforcement Learning
 - 👯 技术栈：PyTorch
