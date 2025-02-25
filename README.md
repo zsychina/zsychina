@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 Education Experience: Undergraduate - DLUT AUTOMATION 20FALL, Master - SYSU CS 24FALL
-- 🌱 Research Focus: Reinforcement learning, especially from human feedback
-- 👯 Tech Stack：PyTorch
+- 🔭 Education Experience:
+  
+  Undergraduate: DLUT School of Automation@20FALL
+  
+  Master: SYSU School of Computer Science@24FALL
 
-Looking forward to making friends or cooperating with you!
+- 🌱 Research Focus: I'm interested in reinforcement learning, agents and utilizing RL to reinforce LLM agents' ability in decision making.
+
+Looking forward to making friends and cooperating with you!
