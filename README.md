@@ -12,6 +12,7 @@
 
 - News
 
-  I will start an internship @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/) as RL engineer this summer!
+  - I was interning @ Tencent WXG.
+  - I was interning @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/).
 
 Looking forward to making friends and cooperating with you!
