@@ -11,7 +11,8 @@
   I'm interested in reinforcement learning, agents and utilizing RL to reinforce LLM agents' ability in decision making.
 
 - News
-
+  
+  - I am currently interning @ Meituan on a horizontal project.
   - I was interning @ Tencent WXG.
   - I was interning @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/).
 
