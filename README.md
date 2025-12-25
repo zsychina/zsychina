@@ -12,7 +12,7 @@
 
 - News
   
-  - I am currently interning @ Meituan on a horizontal project.
+  - I am currently interning @ Meituan ASX.
   - I was interning @ Tencent WXG.
   - I was interning @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/).
 
