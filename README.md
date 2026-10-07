@@ -11,8 +11,9 @@
   I'm interested in reinforcement learning, agents and utilizing RL to reinforce LLM agents' ability in decision making.
 
 - News
-  
-  - I am currently interning @ Meituan ASX.
+
+  - I am interning @ Baidu Ernie Team.
+  - I was interning @ Meituan ASX.
   - I was interning @ Tencent WXG.
   - I was interning @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/).
 
