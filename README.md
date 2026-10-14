@@ -12,7 +12,7 @@
 
 - News
 
-  - I am interning @ Baidu Ernie Team.
+  - I am interning @ Baidu Ernie Lite Team.
   - I was interning @ Meituan ASX.
   - I was interning @ Tencent WXG.
   - I was interning @ [AutoGLM team, Zhipu AI](https://autoglm-research.zhipuai.cn/).
